@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>岛</title>
+  <title>Mr.Lee</title>
   <icon>https://www.gravatar.com/avatar/facfa78aea38b44f507b2b526304f651</icon>
-  <subtitle>面朝大海，春暖花开</subtitle>
+  <subtitle>面朝大海，春暖花</subtitle>
   <link href="http://lipeng266.github.io/atom.xml" rel="self"/>
   
   <link href="http://lipeng266.github.io/"/>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://lipeng266.github.io/2021/cksg6ju6z0001wqyqb6ab5ixs/"/>
-    <id>http://lipeng266.github.io/2021/cksg6ju6z0001wqyqb6ab5ixs/</id>
+    <link href="http://lipeng266.github.io/2021/cksg795mr000701yq8r9w9hrr/"/>
+    <id>http://lipeng266.github.io/2021/cksg795mr000701yq8r9w9hrr/</id>
     <published>2021-08-14T03:43:11.428Z</published>
     <updated>2021-08-14T03:43:11.428Z</updated>
     
